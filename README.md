@@ -6,7 +6,7 @@ the 4 most used http methods are implemented
 
 to run this code:
 
-```
+```bash
 $ pip install -r requirements.txt
 $ python3 app.py
 ```
@@ -34,7 +34,7 @@ the list of routes maybe viewed on routes.txt
 
 1. this:
 
-```
+```json
 {
   "name": "Henrique Paraguassu",
   "skills": [
@@ -46,7 +46,7 @@ the list of routes maybe viewed on routes.txt
 
 2. or this:
 
-```
+```json
 {
   "name": "Dev With Single Skill",
   "skills": "Pascal"
@@ -61,7 +61,7 @@ the list of routes maybe viewed on routes.txt
 
 1. this:
 
-```
+```json
 {
   "name": "Henrique Paraguassu",
   "skills": [
@@ -73,7 +73,7 @@ the list of routes maybe viewed on routes.txt
 
 2. or this:
 
-```
+```json
 {
   "name": "Dev With Single Skill",
   "skills": "Pascal"
